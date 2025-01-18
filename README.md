@@ -19,6 +19,7 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 ![image](https://github.com/user-attachments/assets/34f19307-59e6-445b-b853-5a0af2e4c0a6)
 
 
+![image](https://github.com/user-attachments/assets/ddfabf97-c743-4de9-9d69-a1c1f23de89b)
 
 
 🤖 Tecnologias Utilizadas javascript e VsCode
